@@ -46,7 +46,7 @@ Uma aplicação web moderna e responsiva para conectar carteiras MetaMask, desen
 3. **Trocar de Conta/Rede**:
    - A aplicação detecta automaticamente mudanças
    - Reconecta automaticamente quando necessário
-
+<pre lang="markdown">
 ## 🏗️ Arquitetura do Código
 
 src/
@@ -61,7 +61,7 @@ src/
 ├── pages/
 │   └── Index.tsx              # Página principal
 └── App.tsx                    # Componente raiz
-
+</pre>
 ## 📋 Funcionalidades Detalhadas
 
 ### Validação com Zod
